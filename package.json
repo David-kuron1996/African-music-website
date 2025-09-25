@@ -1,0 +1,21 @@
+{
+  "name": "african-music-website",
+  "version": "1.0.0",
+  "description": "this is a website that plays african music",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-kuron1996/African-music-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/David-kuron1996/African-music-website/issues"
+  },
+  "homepage": "https://github.com/David-kuron1996/African-music-website#readme"
+}
