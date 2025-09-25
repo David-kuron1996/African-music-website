@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/David-kuron1996/African-music-website/issues"
   },
-  "homepage": "https://github.com/David-kuron1996/African-music-website#readme"
+  "homepage": "https://github.com/David-kuron1996/African-music-website#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
