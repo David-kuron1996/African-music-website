@@ -6,7 +6,7 @@
     "artist": "Wizkid ft. Tems",
     "album": "Made In Lagos",
     "cover": "https://www.vibe.com/wp-content/uploads/2021/12/Wizkid-Tems.png?w=910&h=511&crop=1&resize=1024%2C576",
-    "audiourl": "https://example.com/audio/essence.mp3",
+    "audiourl": "https://audiomack.com/wizkid/song/essence",
     "duration": "4:20",
     "category": 1
   },
@@ -16,7 +16,7 @@
     "artist": "Master KG ft. Nomcebo Zikode",
     "album": "Jerusalema",
     "cover": "https://1001sasongs.wordpress.com/wp-content/uploads/2021/10/jerusalema.jpg",
-    "audiourl": "https://example.com/audio/jerusalema.mp3",
+    "audiourl": "https://audiomack.com/velvet-voice/song/jerusalema-feat-burna-boy-nomcebo-zikode-remix-7231376",
     "duration": "3:58",
     "category": 2
   },
@@ -26,7 +26,7 @@
     "artist": "Focalistic ft. Davido",
     "album": "Quarantined Tarantino",
     "cover": "https://source.boomplaymusic.com/buzzgroup1/M00/27/F0/rBEeLGGfWWqAHPZ9AAH-K0FmEJg927.jpg",
-    "audiourl": "https://example.com/audio/kestar.mp3",
+    "audiourl": "https://audiomack.com/focalistic/song/ke-star-feat-virgo-deep-remix-8636243",
     "duration": "3:45",
     "category": 2
   },
@@ -36,7 +36,7 @@
     "artist": "Afro B",
     "album": "Afrowave 2",
     "cover": "https://i.scdn.co/image/ab6761610000e5eb628c8d57d3561e11d219c2dc",
-    "audiourl": "https://example.com/audio/drogba.mp3",
+    "audiourl": "https://audiomack.com/afro_b/song/drogba-joanna-1",
     "duration": "3:28",
     "category": 1
   },
@@ -46,7 +46,7 @@
     "artist": "Davido",
     "album": "Omo Baba Olowo",
     "cover": "https://cdn.platinumlist.net/upload/artist/davido_634-orig1691140652.jpg",
-    "audiourl": "https://example.com/audio/skelewu.mp3",
+    "audiourl": "https://audiomack.com/lekkisound/song/davido-skelewu-single",
     "duration": "3:50",
     "category": 1
   },
@@ -56,7 +56,7 @@
     "artist": "DJ Maphorisa ft. Wizkid & DJ Buckz",
     "album": "BlaqBoy Music Presents: Gqom Wave",
     "cover": "https://cdn.thenigerianvoice.com/thumb__/XGltYWdlc1xjb250ZW50XDEwMjQyMDE2MTE0MjIzXzEwMjQyMDE2NjAwMTFfZGptYXBoeS5qcGd8NTAwfDM1MHw=.jpg",
-    "audiourl": "https://example.com/audio/soweto.mp3",
+    "audiourl": "https://audiomack.com/lekkisound/song/dj-maphorisa-ft-wizkid-dj-buckz-soweto-baby",
     "duration": "4:33",
     "category": 1
   },
@@ -66,7 +66,7 @@
     "artist": "Fireboy DML",
     "album": "Laughter, Tears & Goosebumps",
     "cover": "https://www.revolt.tv/article/2022-06-26/176638/media_123ea9a19b1a9697a66f7f0f2217a397ad9bdb01d.jpeg?width=768&format=jpeg&optimize=high",
-    "audiourl": "https://example.com/audio/jealous.mp3",
+    "audiourl": "https://audiomack.com/fireboydml/song/jealous-",
     "duration": "3:12",
     "category": 1
   },
@@ -76,27 +76,27 @@
     "artist": "Tekno",
     "album": "Old Romance",
     "cover": "https://www.musicinafrica.net/sites/default/files/images/article/202505/teknopresspic211.jpg",
-    "audiourl": "https://example.com/audio/pana.mp3",
+    "audiourl": "https://audiomack.com/symphonicdistribution/song/pana-1",
     "duration": "3:47",
     "category": 1
   },
   {
     "id": 9,
-    "title": "Adorn",
+    "title": "love",
     "artist": "Burna Boy",
     "album": "African Giant",
     "cover": "https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F1777760340287944%2Fburna-boy-crop-1777760441394679.jpg?auth=8435179b7ddd8c279542725afe389d66464d9b16c79627ec939db6918ce8eb88&width=960&height=540&smart=true",
-    "audiourl": "https://example.com/audio/adorn.mp3",
+    "audiourl": "https://audiomack.com/burna-boy/song/love-8928177",
     "duration": "3:15",
     "category": 1
   },
   {
     "id": 10,
-    "title": "Yope",
+    "title": "fun",
     "artist": "Rema",
     "album": "Rema Freestyle",
     "cover": "https://c8.alamy.com/comp/2RC9976/nigerian-artist-rema-performing-live-at-slottsfjell-festival-in-norway-on-12-july-2023-2RC9976.jpg",
-    "audiourl": "https://example.com/audio/yope.mp3",
+    "audiourl": "https://audiomack.com/heisrema/song/fun-0092296",
     "duration": "3:30",
     "category": 1
   },
@@ -106,7 +106,7 @@
       "artist": "Kabza De Small, DJ Maphorisa",
       "album": "Scorpion Kings",
       "cover": "https://static1.squarespace.com/static/52a61548e4b0b6872e2a59ed/t/6145cfab96736452d420b40a/1631965099789/unnamed+%284%29.jpg?format=1500w",
-      "audiourl": "https://example.com/audio/asibe_happy.mp3",
+      "audiourl": "https://audiomack.com/poshboemuuh/song/asibe-happy-feat-dj-maphorisa-ami-faku-hiphopmoodcom",
       "duration": "6:42",
       "category": 2
     },
@@ -116,7 +116,7 @@
       "artist": "Boohle, Nkosazana Daughter",
       "album": "Siyathandana",
       "cover": "https://i.ytimg.com/vi/VphsA42-Jgc/maxresdefault.jpg",
-      "audiourl": "",
+      "audiourl": "https://audiomack.com/busta929/album/umsebenzi-wethu-vol-2",
       "duration": "5:18",
       "category": 2
     },
@@ -126,7 +126,7 @@
       "artist": "Young Stunna, Blxckie",
       "album": "Notumato",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTP7hygkDqvLlaZ5J-0fQlKip9DOHOv_QIQ&s",
-      "audiourl": "https://example.com/audio/adiwele.mp3",
+      "audiourl": "https://audiomack.com/marvoskii/song/adiwele-via-fakazame",
       "duration": "4:55",
       "category": 3
     },
@@ -136,17 +136,17 @@
       "artist": "Mellow & Sleazy, Focalistic",
       "album": "Midnight In Sunnyside",
       "cover": "https://s3.eu-central-1.amazonaws.com/sol-assets/uploads/public/68c/802/6bc/thumb_1071525_900_0_0_0_auto.jpeg",
-      "audiourl": "https://example.com/audio/bella_ciao.mp3",
+      "audiourl": "https://audiomack.com/musicafrescablog/song/bella-ciao",
       "duration": "6:15",
       "category": 2
     },
     {
       "id": 15,
-      "title": "Dakiwe",
+      "title": "A.L.I",
       "artist": "Tyler ICU, Tumelo.za",
       "album": "Money Heist",
       "cover": "https://i.ytimg.com/vi/fvPQwru6rMs/sddefault.jpg?v=6576c187",
-      "audiourl": "https://example.com/audio/dakiwe.mp3",
+      "audiourl": "https://audiomack.com/tumelo-za/album/ali",
       "duration": "5:33",
       "category": 2
     },
@@ -156,7 +156,7 @@
       "artist": "Cassper Nyovest, Boohle",
       "album": "Sweety",
       "cover": "https://i0.wp.com/news365.co.za/wp-content/uploads/2021/09/Cassper-Nyovest-and-Boohle.png",
-      "audiourl": "https://example.com/audio/siyathandana.mp3",
+      "audiourl": "https://audiomack.com/casspernyovest/song/siyathandana",
       "duration": "6:01",
       "category": 2
     },
@@ -166,7 +166,7 @@
       "artist": "Kamo Mphela, MFR Souls",
       "album": "Amapiano Live",
       "cover": "https://cdn-images.dzcdn.net/images/artist/c1d22549695df638942f5a9955b49ded/500x500.jpg",
-      "audiourl": "https://example.com/audio/yim_lo.mp3",
+      "audiourl": "https://audiomack.com/shaunmusiq/song/yimi-lo-6697805",
       "duration": "5:47",
       "category": 2
     },
@@ -176,7 +176,7 @@
       "artist": "Musical Keys, Nobuhle",
       "album": "Amapiano Grooves",
       "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU3kxeDha9aPTcrYqLI-CO_a05QkPOD1i9Q&s",
-      "audiourl": "https://example.com/audio/vula_mlomo.mp3",
+      "audiourl": "https://audiomack.com/tamim-seke-kiluvia-hussein/song/vula-mlomo",
       "duration": "5:22",
       "category": 2
     }
