@@ -1,0 +1,111 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Summer Vibes",
+      "artist": "Ocean Waves",
+      "album": "Beach Memories",
+      "cover": "https://picsum.photos/seed/album1/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song1.mp3",
+      "duration": 215,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "title": "Mountain High",
+      "artist": "Nature Sounds",
+      "album": "Wilderness",
+      "cover": "https://picsum.photos/seed/album2/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song2.mp3",
+      "duration": 198,
+      "category": 2
+    },
+    {
+      "id": 3,
+      "title": "City Lights",
+      "artist": "Urban Beats",
+      "album": "Nightlife",
+      "cover": "https://picsum.photos/seed/album3/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song3.mp3",
+      "duration": 242,
+      "category": 3
+    },
+    {
+      "id": 4,
+      "title": "Desert Wind",
+      "artist": "Sandy Dunes",
+      "album": "Oasis",
+      "cover": "https://picsum.photos/seed/album4/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song4.mp3",
+      "duration": 187,
+      "category": 4
+    },
+    {
+      "id": 5,
+      "title": "Rainy Days",
+      "artist": "Cloudy Skies",
+      "album": "Weather Patterns",
+      "cover": "https://picsum.photos/seed/album5/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song5.mp3",
+      "duration": 223,
+      "category": 5
+    },
+    {
+      "id": 6,
+      "title": "Forest Walk",
+      "artist": "Green Leaves",
+      "album": "Nature Trails",
+      "cover": "https://picsum.photos/seed/album6/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song6.mp3",
+      "duration": 201,
+      "category": 2
+    },
+    {
+      "id": 7,
+      "title": "Ocean Breeze",
+      "artist": "Blue Waters",
+      "album": "Coastal",
+      "cover": "https://picsum.photos/seed/album7/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song7.mp3",
+      "duration": 234,
+      "category": 1
+    },
+    {
+      "id": 8,
+      "title": "Midnight Drive",
+      "artist": "Street Racers",
+      "album": "Urban Adventures",
+      "cover": "https://picsum.photos/seed/album8/300/300.jpg",
+      "audioUrl": "https://example.com/audio/song8.mp3",
+      "duration": 216,
+      "category": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Beach",
+      "icon": "fas fa-umbrella-beach"
+    },
+    {
+      "id": 2,
+      "name": "Nature",
+      "icon": "fas fa-tree"
+    },
+    {
+      "id": 3,
+      "name": "Urban",
+      "icon": "fas fa-city"
+    },
+    {
+      "id": 4,
+      "name": "Desert",
+      "icon": "fas fa-sun"
+    },
+    {
+      "id": 5,
+      "name": "Rain",
+      "icon": "fas fa-cloud-rain"
+    }
+  ]
+}

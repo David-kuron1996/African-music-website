@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music App</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-music"></i> AFRICAN MUSIC WEBSITE</h1>
+            <div class="search-container">
+                <input type="text" id="search-input" placeholder="Search songs, artists...">
+                <button id="search-btn"><i class="fas fa-search"></i></button>
+            </div>
+        </header>
+        
+        <main>
+            <div class="player-container">
+                <div class="now-playing">
+                    <div class="album-art">
+                        <img id="current-album-art" src="https://picsum.photos/seed/music/300/300.jpg" alt="Album Art">
+                    </div>
+                    <div class="track-info">
+                        <h2 id="current-track-name">Select a song</h2>
+                        <p id="current-artist-name">No artist</p>
+                    </div>
+                    <div class="player-controls">
+                        <button id="prev-btn"><i class="fas fa-step-backward"></i></button>
+                        <button id="play-btn"><i class="fas fa-play"></i></button>
+                        <button id="next-btn"><i class="fas fa-step-forward"></i></button>
+                    </div>
+                    <div class="progress-container">
+                        <span id="current-time">0:00</span>
+                        <div class="progress-bar">
+                            <div id="progress"></div>
+                        </div>
+                        <span id="duration">0:00</span>
+                    </div>
+                    <div class="volume-container">
+                        <i class="fas fa-volume-up"></i>
+                        <input type="range" id="volume-slider" min="0" max="100" value="70">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="playlist-container">
+                <h2>Playlist</h2>
+                <div class="playlist" id="playlist">
+                    <!-- Songs will be loaded here from db.json -->
+                </div>
+            </div>
+            
+            <div class="categories-container">
+                <h2>Categories</h2>
+                <div class="categories" id="categories">
+                    <!-- Categories will be loaded here from db.json -->
+                </div>
+            </div>
+        </main>
+        
+        <footer>
+            <p>&copy; 2023 Music App. All rights reserved.</p>
+        </footer>
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
