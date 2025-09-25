@@ -119,6 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
             currentAudio.play();
             isPlaying = true;
             updatePlayPauseButton();
+            
         }
     }
     

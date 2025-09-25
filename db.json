@@ -1,101 +1,188 @@
 {
   "songs": [
     {
-      "id": 1,
-      "title": "Summer Vibes",
-      "artist": "Ocean Waves",
-      "album": "Beach Memories",
-      "cover": "https://picsum.photos/seed/album1/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song1.mp3",
-      "duration": 215,
-      "category": 1
-    },
-    {
-      "id": 2,
-      "title": "Mountain High",
-      "artist": "Nature Sounds",
-      "album": "Wilderness",
-      "cover": "https://picsum.photos/seed/album2/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song2.mp3",
-      "duration": 198,
+    "id": 2,
+    "title": "Essence",
+    "artist": "Wizkid ft. Tems",
+    "album": "Made In Lagos",
+    "cover": "https://www.vibe.com/wp-content/uploads/2021/12/Wizkid-Tems.png?w=910&h=511&crop=1&resize=1024%2C576",
+    "audiourl": "https://example.com/audio/essence.mp3",
+    "duration": "4:20",
+    "category": 1
+  },
+  {
+    "id": 3,
+    "title": "Ke Star",
+    "artist": "Focalistic ft. Davido",
+    "album": "Quarantined Tarantino",
+    "cover": "https://source.boomplaymusic.com/buzzgroup1/M00/27/F0/rBEeLGGfWWqAHPZ9AAH-K0FmEJg927.jpg",
+    "audiourl": "https://example.com/audio/kestar.mp3",
+    "duration": "3:45",
+    "category": 2
+  },
+  {
+    "id": 4,
+    "title": "Drogba (Joanna)",
+    "artist": "Afro B",
+    "album": "Afrowave 2",
+    "cover": "https://i.scdn.co/image/ab6761610000e5eb628c8d57d3561e11d219c2dc",
+    "audiourl": "https://example.com/audio/drogba.mp3",
+    "duration": "3:28",
+    "category": 1
+  },
+  {
+    "id": 5,
+    "title": "Skelewu",
+    "artist": "Davido",
+    "album": "Omo Baba Olowo",
+    "cover": "https://cdn.platinumlist.net/upload/artist/davido_634-orig1691140652.jpg",
+    "audiourl": "https://example.com/audio/skelewu.mp3",
+    "duration": "3:50",
+    "category": 1
+  },
+  {
+    "id": 6,
+    "title": "Soweto Baby",
+    "artist": "DJ Maphorisa ft. Wizkid & DJ Buckz",
+    "album": "BlaqBoy Music Presents: Gqom Wave",
+    "cover": "https://cdn.thenigerianvoice.com/thumb__/XGltYWdlc1xjb250ZW50XDEwMjQyMDE2MTE0MjIzXzEwMjQyMDE2NjAwMTFfZGptYXBoeS5qcGd8NTAwfDM1MHw=.jpg",
+    "audiourl": "https://example.com/audio/soweto.mp3",
+    "duration": "4:33",
+    "category": 1
+  },
+  {
+    "id": 7,
+    "title": "Jealous",
+    "artist": "Fireboy DML",
+    "album": "Laughter, Tears & Goosebumps",
+    "cover": "https://www.revolt.tv/article/2022-06-26/176638/media_123ea9a19b1a9697a66f7f0f2217a397ad9bdb01d.jpeg?width=768&format=jpeg&optimize=high",
+    "audiourl": "https://example.com/audio/jealous.mp3",
+    "duration": "3:12",
+    "category": 1
+  },
+  {
+    "id": 8,
+    "title": "Pana",
+    "artist": "Tekno",
+    "album": "Old Romance",
+    "cover": "https://www.musicinafrica.net/sites/default/files/images/article/202505/teknopresspic211.jpg",
+    "audiourl": "https://example.com/audio/pana.mp3",
+    "duration": "3:47",
+    "category": 1
+  },
+  {
+    "id": 9,
+    "title": "Adorn",
+    "artist": "Burna Boy",
+    "album": "African Giant",
+    "cover": "https://img.businessoffashion.com/resizer/v2/https%3A%2F%2Fprod-bof-media.s3.eu-west-1.amazonaws.com%2Fimport%2Fprofiles%2Fasset%2F1777760340287944%2Fburna-boy-crop-1777760441394679.jpg?auth=8435179b7ddd8c279542725afe389d66464d9b16c79627ec939db6918ce8eb88&width=960&height=540&smart=true",
+    "audiourl": "https://example.com/audio/adorn.mp3",
+    "duration": "3:15",
+    "category": 1
+  },
+  {
+    "id": 10,
+    "title": "Yope",
+    "artist": "Rema",
+    "album": "Rema Freestyle",
+    "cover": "https://c8.alamy.com/comp/2RC9976/nigerian-artist-rema-performing-live-at-slottsfjell-festival-in-norway-on-12-july-2023-2RC9976.jpg",
+    "audiourl": "https://example.com/audio/yope.mp3",
+    "duration": "3:30",
+    "category": 1
+  },
+  {
+      "id": 11,
+      "title": "Asibe Happy",
+      "artist": "Kabza De Small, DJ Maphorisa",
+      "album": "Scorpion Kings",
+      "cover": "https://example.com/covers/asibe_happy.jpg",
+      "audiourl": "https://example.com/audio/asibe_happy.mp3",
+      "duration": "6:42",
       "category": 2
     },
     {
-      "id": 3,
-      "title": "City Lights",
-      "artist": "Urban Beats",
-      "album": "Nightlife",
-      "cover": "https://picsum.photos/seed/album3/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song3.mp3",
-      "duration": 242,
-      "category": 3
-    },
-    {
-      "id": 4,
-      "title": "Desert Wind",
-      "artist": "Sandy Dunes",
-      "album": "Oasis",
-      "cover": "https://picsum.photos/seed/album4/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song4.mp3",
-      "duration": 187,
-      "category": 4
-    },
-    {
-      "id": 5,
-      "title": "Rainy Days",
-      "artist": "Cloudy Skies",
-      "album": "Weather Patterns",
-      "cover": "https://picsum.photos/seed/album5/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song5.mp3",
-      "duration": 223,
-      "category": 5
-    },
-    {
-      "id": 6,
-      "title": "Forest Walk",
-      "artist": "Green Leaves",
-      "album": "Nature Trails",
-      "cover": "https://picsum.photos/seed/album6/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song6.mp3",
-      "duration": 201,
+      "id": 12,
+      "title": "Umsebenzi Wethu",
+      "artist": "Boohle, Nkosazana Daughter",
+      "album": "Siyathandana",
+      "cover": "https://example.com/covers/umsebenzi_wethu.jpg",
+      "audiourl": "https://example.com/audio/umsebenzi_wethu.mp3",
+      "duration": "5:18",
       "category": 2
     },
     {
-      "id": 7,
-      "title": "Ocean Breeze",
-      "artist": "Blue Waters",
-      "album": "Coastal",
-      "cover": "https://picsum.photos/seed/album7/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song7.mp3",
-      "duration": 234,
-      "category": 1
+      "id": 13,
+      "title": "Adiwele",
+      "artist": "Young Stunna, Blxckie",
+      "album": "Notumato",
+      "cover": "https://example.com/covers/adiwele.jpg",
+      "audiourl": "https://example.com/audio/adiwele.mp3",
+      "duration": "4:55",
+      "category": 3
     },
     {
-      "id": 8,
-      "title": "Midnight Drive",
-      "artist": "Street Racers",
-      "album": "Urban Adventures",
-      "cover": "https://picsum.photos/seed/album8/300/300.jpg",
-      "audioUrl": "https://example.com/audio/song8.mp3",
-      "duration": 216,
-      "category": 3
+      "id": 14,
+      "title": "Bella Ciao",
+      "artist": "Mellow & Sleazy, Focalistic",
+      "album": "Midnight In Sunnyside",
+      "cover": "https://example.com/covers/bella_ciao.jpg",
+      "audiourl": "https://example.com/audio/bella_ciao.mp3",
+      "duration": "6:15",
+      "category": 2
+    },
+    {
+      "id": 15,
+      "title": "Dakiwe",
+      "artist": "Tyler ICU, Tumelo.za",
+      "album": "Money Heist",
+      "cover": "https://example.com/covers/dakiwe.jpg",
+      "audiourl": "https://example.com/audio/dakiwe.mp3",
+      "duration": "5:33",
+      "category": 2
+    },
+    {
+      "id": 16,
+      "title": "Siyathandana",
+      "artist": "Cassper Nyovest, Boohle",
+      "album": "Sweety",
+      "cover": "https://example.com/covers/siyathandana.jpg",
+      "audiourl": "https://example.com/audio/siyathandana.mp3",
+      "duration": "6:01",
+      "category": 2
+    },
+    {
+      "id": 17,
+      "title": "Yim Lo",
+      "artist": "Kamo Mphela, MFR Souls",
+      "album": "Amapiano Live",
+      "cover": "https://example.com/covers/yim_lo.jpg",
+      "audiourl": "https://example.com/audio/yim_lo.mp3",
+      "duration": "5:47",
+      "category": 2
+    },
+    {
+      "id": 18,
+      "title": "Vula Mlomo",
+      "artist": "Musical Keys, Nobuhle",
+      "album": "Amapiano Grooves",
+      "cover": "https://example.com/covers/vula_mlomo.jpg",
+      "audiourl": "https://example.com/audio/vula_mlomo.mp3",
+      "duration": "5:22",
+      "category": 2
     }
-  ],
+
+]
+  ,
   "categories": [
     {
       "id": 1,
-      "name": "Beach",
+      "name": "Afrobeats",
       "icon": "fas fa-umbrella-beach"
     },
     {
       "id": 2,
-      "name": "Nature",
+      "name": "Amapiano",
       "icon": "fas fa-tree"
-    },
-    {
-      "id": 3,
-      "name": "Urban",
-      "icon": "fas fa-city"
     },
     {
       "id": 4,
