@@ -187,22 +187,13 @@
     {
       "id": 1,
       "name": "Afrobeats",
-      "icon": "fas fa-umbrella-beach"
+      "icon": "<i class='bx bxs-microphone-alt'></i>"
     },
     {
       "id": 2,
       "name": "Amapiano",
-      "icon": "fas fa-tree"
-    },
-    {
-      "id": 4,
-      "name": "Desert",
-      "icon": "fas fa-sun"
-    },
-    {
-      "id": 5,
-      "name": "Rain",
-      "icon": "fas fa-cloud-rain"
+      "icon": "<i class='bx bxs-microphone-alt'></i>"
     }
+    
   ]
 }
