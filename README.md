@@ -31,11 +31,6 @@ A web-based music player dedicated to showcasing and playing African music. This
    npm install
    ```
 
-4. Start the application:
-   ```bash
-   npm start
-   ```
-
 ## Usage
 
 1. Open your web browser and navigate to the application URL (typically `http://localhost:3000` if running locally)
@@ -73,8 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [David-kuron1996](https://github.com/David-kuron1996)
 - Project Link: [https://github.com/David-kuron1996/African-music-website](https://github.com/David-kuron1996/African-music-website)
-
-## Acknowledgments
-
-- Font Awesome for the icons used in the interface
-- All the African artists whose music is featured in this application
