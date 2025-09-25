@@ -15,7 +15,7 @@
     "title": "Jerusalema",
     "artist": "Master KG ft. Nomcebo Zikode",
     "album": "Jerusalema",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273c8e4f3b6f4f4e4f4f4f4f4f4",
+    "cover": "https://1001sasongs.wordpress.com/wp-content/uploads/2021/10/jerusalema.jpg",
     "audiourl": "https://example.com/audio/jerusalema.mp3",
     "duration": "3:58",
     "category": 2
@@ -105,7 +105,7 @@
       "title": "Asibe Happy",
       "artist": "Kabza De Small, DJ Maphorisa",
       "album": "Scorpion Kings",
-      "cover": "https://example.com/covers/asibe_happy.jpg",
+      "cover": "https://static1.squarespace.com/static/52a61548e4b0b6872e2a59ed/t/6145cfab96736452d420b40a/1631965099789/unnamed+%284%29.jpg?format=1500w",
       "audiourl": "https://example.com/audio/asibe_happy.mp3",
       "duration": "6:42",
       "category": 2
@@ -115,8 +115,8 @@
       "title": "Umsebenzi Wethu",
       "artist": "Boohle, Nkosazana Daughter",
       "album": "Siyathandana",
-      "cover": "https://example.com/covers/umsebenzi_wethu.jpg",
-      "audiourl": "https://example.com/audio/umsebenzi_wethu.mp3",
+      "cover": "https://i.ytimg.com/vi/VphsA42-Jgc/maxresdefault.jpg",
+      "audiourl": "",
       "duration": "5:18",
       "category": 2
     },
@@ -125,7 +125,7 @@
       "title": "Adiwele",
       "artist": "Young Stunna, Blxckie",
       "album": "Notumato",
-      "cover": "https://example.com/covers/adiwele.jpg",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbTP7hygkDqvLlaZ5J-0fQlKip9DOHOv_QIQ&s",
       "audiourl": "https://example.com/audio/adiwele.mp3",
       "duration": "4:55",
       "category": 3
@@ -135,7 +135,7 @@
       "title": "Bella Ciao",
       "artist": "Mellow & Sleazy, Focalistic",
       "album": "Midnight In Sunnyside",
-      "cover": "https://example.com/covers/bella_ciao.jpg",
+      "cover": "https://s3.eu-central-1.amazonaws.com/sol-assets/uploads/public/68c/802/6bc/thumb_1071525_900_0_0_0_auto.jpeg",
       "audiourl": "https://example.com/audio/bella_ciao.mp3",
       "duration": "6:15",
       "category": 2
@@ -145,7 +145,7 @@
       "title": "Dakiwe",
       "artist": "Tyler ICU, Tumelo.za",
       "album": "Money Heist",
-      "cover": "https://example.com/covers/dakiwe.jpg",
+      "cover": "https://i.ytimg.com/vi/fvPQwru6rMs/sddefault.jpg?v=6576c187",
       "audiourl": "https://example.com/audio/dakiwe.mp3",
       "duration": "5:33",
       "category": 2
@@ -155,7 +155,7 @@
       "title": "Siyathandana",
       "artist": "Cassper Nyovest, Boohle",
       "album": "Sweety",
-      "cover": "https://example.com/covers/siyathandana.jpg",
+      "cover": "https://i0.wp.com/news365.co.za/wp-content/uploads/2021/09/Cassper-Nyovest-and-Boohle.png",
       "audiourl": "https://example.com/audio/siyathandana.mp3",
       "duration": "6:01",
       "category": 2
@@ -165,7 +165,7 @@
       "title": "Yim Lo",
       "artist": "Kamo Mphela, MFR Souls",
       "album": "Amapiano Live",
-      "cover": "https://example.com/covers/yim_lo.jpg",
+      "cover": "https://cdn-images.dzcdn.net/images/artist/c1d22549695df638942f5a9955b49ded/500x500.jpg",
       "audiourl": "https://example.com/audio/yim_lo.mp3",
       "duration": "5:47",
       "category": 2
@@ -175,7 +175,7 @@
       "title": "Vula Mlomo",
       "artist": "Musical Keys, Nobuhle",
       "album": "Amapiano Grooves",
-      "cover": "https://example.com/covers/vula_mlomo.jpg",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScU3kxeDha9aPTcrYqLI-CO_a05QkPOD1i9Q&s",
       "audiourl": "https://example.com/audio/vula_mlomo.mp3",
       "duration": "5:22",
       "category": 2
