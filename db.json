@@ -1,7 +1,7 @@
 {
   "songs": [
     {
-    "id": 2,
+    "id": 1,
     "title": "Essence",
     "artist": "Wizkid ft. Tems",
     "album": "Made In Lagos",
@@ -9,6 +9,16 @@
     "audiourl": "https://example.com/audio/essence.mp3",
     "duration": "4:20",
     "category": 1
+  },
+  {
+    "id": 2,
+    "title": "Jerusalema",
+    "artist": "Master KG ft. Nomcebo Zikode",
+    "album": "Jerusalema",
+    "cover": "https://i.scdn.co/image/ab67616d0000b273c8e4f3b6f4f4e4f4f4f4f4f4",
+    "audiourl": "https://example.com/audio/jerusalema.mp3",
+    "duration": "3:58",
+    "category": 2
   },
   {
     "id": 3,
